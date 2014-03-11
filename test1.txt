@@ -14,4 +14,6 @@ Posted on 2013-02-03 22:53 魔のkyo 阅读(1900) 评论(0)  编辑 收藏 引用
 
 2. 安装Copssh，注意不要使用默认的Program Files下的安装路径，也不要在路径中带空格，否则会引起不必要的麻烦导致失败，例如我就装在G:\SSH。
 
-test
+
+Your identification has been saved in /e/git/data.
+Your public key has been saved in /e/git/data.pub.
